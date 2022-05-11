@@ -92,12 +92,3 @@ public class ProdutosController {
         produtosRepository.deleteById(id); //chamo o método postagemRepository
     }
 }
-	
-
-	
-
-
-
-	
-
-	
